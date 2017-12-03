@@ -123,7 +123,7 @@
         <div class="col s12 center">
           <h3><i class="mdi-content-send brown-text"></i></h3>
           <h4>NOS UBICAMOS EN:</h4>
-          <h5 class="header col s12 light">Prol. Rivapalacio #51, Col. Ejidal, Tepecoacuilco de Trujano, Guerrero, Mexico.</h5>
+          <h5 class="header col s12 light">Av Riva Palacio 84, La Sierra, 40160 Tepecoacuilco de Trujano, Gro, Mexico.</h5>
          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7576.920974341311!2d-99.46413840000005!3d18.2805378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cc3eae89820e71%3A0x4b1a25b7f57c6184!2sAv+Riva+Palacio+84%2C+La+Sierra%2C+40160+Tepecoacuilco+de+Trujano%2C+Gro.!5e0!3m2!1ses-419!2smx!4v1512260080617" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
       </div>

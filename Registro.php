@@ -15,6 +15,7 @@
  <nav class="deep-purple accent-3" role="navigation">
     <div class="nav-wrapper container"> 
     <div class="nav-wrapper">
+       <img src="CASA1.png" width="100 px" height="60px" align="left">
     <ul id="nav-mobile" class="right hide-on-med-and-down">
       <li><a href="http://localhost/geekv2/">INICIO</a></li>
       <li><a href="">CATALOGO </a></li>
@@ -133,31 +134,26 @@
     </div>
 
 <!-- ********* footer ********************8-->
-<footer class="page-footer deep-orange teal">
+ <footer class="page-footer deep-orange teal">
     <div class="container">
       <div class="row">
-        <div class="col l6 s12">
-          <h5 class="white-text">Company Bio</h5>
-          <p class="grey-text text-lighten-4">We are a team of college students working on this project like it's our full time job. Any amount would help support and continue development on this project and is greatly appreciated.</p>
-
-
+        <div class="col l5 s12  ">
+          <h5 class="white-text">Muebles del Centro</h5>
+          <p class="grey-text text-lighten-4" ALIGN="justify" >Somos un negocio dedicada a la venta de muebles y articulos para el hogar de acuerdo a tus necesidades y contamos con  mas de <b>10 años</b> de experiencia. En el cual te ofrecemos calidad, precio y una varidad de  productos de las mejores marcas  para tu hogar. Tambien contamos con un sistema de pago de acuerdo a tus posibilidades. 
         </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Settings</h5>
+        <div class="col l2 s12 center">
+          <h5 class="white-text">Pagos con:</h5>
           <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
+      <img src="https://www.paypalobjects.com/webstatic/es_MX/mktg/logos-buttons/redesign/btn_3.png" alt="undefined" />
+           
           </ul>
         </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Connect</h5>
+        <div class="col l3 s12 right">
+          <h5 class="white-text">Contactanos:</h5>
           <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
+            <li><a class="white-text" >Telefonos:</a></li>
+            <li><a class="white-text" href="#!">733-106-41-84</a></li>
+            <li><a class="white-text" href="#!">733-67-6-06-05</a></li>
           </ul>
         </div>
       </div>
